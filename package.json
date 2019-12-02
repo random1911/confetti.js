@@ -1,0 +1,22 @@
+{
+  "name": "confetti-js",
+  "version": "1.0.0",
+  "description": "Framework agnostic canvas confetti drawer",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.0",
+    "@typescript-eslint/parser": "^2.6.0",
+    "@types/node": "^12.0.8",
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.19.1",
+    "typescript": "^3.7.2"
+  }
+}
